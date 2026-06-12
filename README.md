@@ -150,7 +150,4 @@ http://127.0.0.1:5000
 - API keys must NEVER be pushed to GitHub
 - Use `.env.example` for sharing structure
 
----
- 
- 
-```
+
