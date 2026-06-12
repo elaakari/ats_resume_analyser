@@ -74,9 +74,7 @@ The system analyzes:
 │
 ├───Templates
 │       index.html
-│
-└───__pycache__
-        analyse_pdf.cpython-314.pyc
+
 
 
 ```
